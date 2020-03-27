@@ -1,0 +1,16 @@
+{
+  "name": "eclwebsite",
+  "version": "1.0.0",
+  "description": "Static web for ECL",
+  "main": "main.js",
+  "scripts": {
+    "dev": "nodemon .",
+    "start": "node ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.9.4"
+  }
+}
