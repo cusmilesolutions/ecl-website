@@ -1,16 +1,18 @@
 {
   "name": "eclwebsite",
   "version": "1.0.0",
-  "description": "Static web for ECL",
+  "description": "A website for Express City Logistics",
   "main": "main.js",
+  "repository": {
+    "url": "https://github.com/cusmilesolutions/ecl-website"
+  },
   "scripts": {
     "dev": "nodemon .",
     "start": "node ."
   },
-  "author": "",
+  "author": "@cusmilesolutions",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
-    "mongoose": "^5.9.4"
+    "express": "^4.17.1"
   }
 }
